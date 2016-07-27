@@ -1,2 +1,2 @@
 # datasciencecoursera
-My Data Science repo
+My first Data Science repo
